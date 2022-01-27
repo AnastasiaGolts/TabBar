@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  TabBar
+
+  Created by Anastasia G on 27.01.2022.
+  
+*/
+
+"Labirint" = "Labirint";
+"Catalogue" = "Catalogue";
+"Cart" = "Cart";
+"Sales" = "Sales";
+"My lab" = "My lab";
+
